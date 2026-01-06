@@ -1,6 +1,6 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/JiaXU0123)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+<!-- I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX. -->
 
 #### Email  
 <code>aobensss@gmail.com</code>  
@@ -11,4 +11,4 @@ I'm currently pursuing a Master's degree in XX at the Department of XX, XX Unive
 <!-- • GPA: XX/XX -->
 
 #### Research Interests  
-Artificial Intelligence , Machine Learning,Multimodal Models, Computer Vision, Generate Models
+Artificial Intelligenc, Multimodal Models, Computer Vision, Generate Models
