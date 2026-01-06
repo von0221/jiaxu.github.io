@@ -8,7 +8,7 @@ Worked on the development and optimization of large-scale recommendation systems
 - Designed and implemented real-time data processing workflows to improve model inference efficiency.  
 - Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
 Research Experience -->
-### **Research Assistant at the Lab of Brain Science and Brain-Inspired Intelligence Advisor: Prof. Guoyuan Yang**
+### **Research Assistant at the Lab of Brain Science and Brain-Inspired Intelligence** **Advisor: Prof. Guoyuan Yang**
 **October 2023 – June 2025 | BIT**  
 #### Contributions:  
 - CLIP-MSM Oct 2024 – Apr 2025：

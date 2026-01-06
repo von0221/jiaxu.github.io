@@ -1,5 +1,6 @@
-[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg)](https://github.com/JiaXU0123)
-
+<a href="https://github.com/JiaXU0123">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="162">
+</a>
 
 <!-- I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX. -->
 
